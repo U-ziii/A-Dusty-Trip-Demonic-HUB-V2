@@ -2,7 +2,7 @@
 
 Dominate every dusty mile with **Demonic HUB V2**, your all-in-one **keyless script** for A Dusty Trip. Automate looting, travel, and supplies—complete with **ESP**, **Auto Farm**, **Spawn Cars**, and **Auto Food**. With more features dropping soon, this hub is just getting started.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/A-Dusty-Trip-Demonic-HUB-V2/blob/main/A%20Dusty%20Trip%20-%20Demonic%20HUB%20V2.png)
 
 ---
 
